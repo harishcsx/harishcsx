@@ -9,7 +9,7 @@
 - ⚡ **Fun fact:** My code runs on every machine!
 
 ---
-
+<!--
 ### 🛠️ Languages and Tools
 <p align="left">
 <!--   <a> <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/postgresql.svg"/> </a> -->
@@ -37,6 +37,7 @@
 </p>
 
 ---
+-->
 <!--
 ### 🌐 Connect with me
 <p align="left">
