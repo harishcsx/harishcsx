@@ -37,7 +37,7 @@
 </p>
 
 ---
-
+<!--
 ### 🌐 Connect with me
 <p align="left">
   <a href="https://twitter.com/harishcsx" target="_blank">
@@ -50,3 +50,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
+-->
