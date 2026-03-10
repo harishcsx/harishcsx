@@ -1,5 +1,5 @@
 # Hi 👋, I'm Harish
-### Knows to talk with computers, not magically but logcially
+### can convert decimal to binary
 
 ![pic8](https://github.com/user-attachments/assets/99ed9de5-6302-4c96-ad6c-e2eb69a6b784)
 
