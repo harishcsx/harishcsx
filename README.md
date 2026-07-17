@@ -1,5 +1,5 @@
 # Hi 👋, I'm Harish
-### 1+1 = 10
+
 
 ![pic8](https://github.com/user-attachments/assets/99ed9de5-6302-4c96-ad6c-e2eb69a6b784)
 
